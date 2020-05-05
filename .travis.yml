@@ -21,6 +21,7 @@ notifications:
       - ala1289@gmail.com
     on_success: always
     on_failure: always
+    slack: localmeetups-co:bWdsTuBA47ug9BOEJrY2HwNM
 
 deploy:
   provider: pages # github pages
